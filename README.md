@@ -10,6 +10,8 @@ First, clone the **PyARPScanner** repository.
 Then open a terminal and go to the cloned directory and type:
 
     sudo setup.sh
+Now, the required third-party modules are installed.
+
 Usage
 -----
 The server needs root privileges to send ARP packets. So, in the terminal type:
