@@ -14,6 +14,6 @@ Now, the required third-party modules are installed.
 
 Usage
 -----
-The server needs root privileges to send ARP packets. So, in the terminal type:
+The script needs root privileges to send ARP packets. So, in the terminal type:
     
     sudo python PyARPScanner.py
